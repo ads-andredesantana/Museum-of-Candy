@@ -1,2 +1,2 @@
 # Museum-of-Candy-Project
-UDEMY BOOTCAMP - Creating of a website applying Bootstrap 4 - HTML, CSS, JS
+UDEMY BOOTCAMP - Creating a website applying Bootstrap 4 - HTML, CSS, JS
